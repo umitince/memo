@@ -1,7 +1,7 @@
 # memo
 
 ## git
-
+etst
 echo "# memo" >> README.md
 git init
 git add README.md
